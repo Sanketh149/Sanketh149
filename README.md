@@ -90,4 +90,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanketh149&show_owner=true&repo=personalwebie)](https://github.com/Sanketh149/personalwebie)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Sanketh149.Sanketh149)](https://github.com/Sanketh149)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanketh149&label=Profile%20views&color=980eb4&style=plastic" alt="Sanketh149" /> </p>
