@@ -25,7 +25,7 @@ Hi there, I'm <a href="https://sanketh-portfolio.netlify.app/" target="_blank" r
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Programmer, and Singer 🎤!
+I'm a Full-Stack Web Developer 💻, Programmer 🌐, and Singer 🎤!
 </h2>
 
 I love the entire process of developing creative websites. I love the challenge of finding logics and spending time to meet my friends. Learning new technologies and adapting to them.
