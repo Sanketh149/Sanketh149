@@ -88,6 +88,6 @@ I love the entire process of developing creative websites. I love the challenge 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketh149&layout=compact&show_icons=true" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanketh149&repo=github-readme-stats&show_owner=true)](https://github.com/Sanketh149/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanketh149&repo=github-readme-stats&show_owner=true)](https://github.com/Sanketh149/cbit-covid-19-tracker)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Sanketh149.Sanketh149)](https://github.com/Sanketh149)
