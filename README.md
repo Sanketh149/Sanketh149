@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 
-<img width="200" height="200" src="![Blue and Pink Modern Tech Electronics and Technology Retractable Exhibition Banner](https://user-images.githubusercontent.com/89764074/152376257-3a7aa6e9-8b84-4c1d-a999-698e9fe331ef.png)" alt="my banner">
+<img width="200" height="200" src="https://user-images.githubusercontent.com/89764074/152376257-3a7aa6e9-8b84-4c1d-a999-698e9fe331ef.png" alt="my banner">
 
 </p>
 
