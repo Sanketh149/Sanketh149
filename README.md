@@ -81,12 +81,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/Sanketh149/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanketh149&theme=synthwave&show_icons=true" />
-</a>
-<a href="https://github.com/Sanketh149/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketh149&layout=compact&show_icons=true" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanketh149&theme=synthwave&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketh149&layout=compact&show_icons=true" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanketh149&show_owner=true&repo=personalwebie)](https://github.com/Sanketh149/personalwebie)
 
