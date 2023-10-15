@@ -31,8 +31,7 @@ I'm a Full-Stack Web Developer 💻, Programmer 🌐, and Singer 🎤!
 I love the entire process of developing creative websites. I love the challenge of finding logic and spending time to meet my friends. Learning new technologies and adapting to them.
 
 Leetcode Profile:  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lc4ever?theme=dark&font=Fauna%20One&ext=contest)](https://leetcode.com/lc4ever/)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/lc4ever?theme=unicorn&font=Cabin%20Sketch&ext=contest)
 ## 🌱 I'm currently learning
 
 - 📱 MERN Stack
