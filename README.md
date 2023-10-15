@@ -36,22 +36,15 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.instagram.com/sanketh_kumar_123/?utm_medium=copy_link"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Sanketh | Instagram" width="21px"/></a>
 </br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- My old projects
-- Web sites Recommendation App (Machine Learning)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- Singing and Guitar
-- Mastering DSA
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lc4ever?theme=dark&font=Fauna%20One&ext=contest)](https://leetcode.com/lc4ever/)
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Django
+- 📱 MERN Stack
+- NLP + DL
 - Mastering DSA
-- Styled Components
 
 ## 💼 Technical Skills
 
