@@ -28,16 +28,9 @@ Hi there, I'm <a href="https://sanketh-portfolio.netlify.app/" target="_blank" r
 I'm a Full-Stack Web Developer 💻, Programmer 🌐, and Singer 🎤!
 </h2>
 
-I love the entire process of developing creative websites. I love the challenge of finding logics and spending time to meet my friends. Learning new technologies and adapting to them.
+I love the entire process of developing creative websites. I love the challenge of finding logic and spending time to meet my friends. Learning new technologies and adapting to them.
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/kistappagari-sanketh-kumar-3b5676216/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Sanketh | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/sanketh_kumar_123/?utm_medium=copy_link"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Sanketh | Instagram" width="21px"/></a>
-</br>
-
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
+Leetcode Profile:  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/lc4ever?theme=dark&font=Fauna%20One&ext=contest)](https://leetcode.com/lc4ever/)
 
 ## 🌱 I'm currently learning
